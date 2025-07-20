@@ -1,6 +1,6 @@
 # ALGProgr1 - Juego de la Vida de Conway
 
-Implementación del Juego de la Vida de Conway como proyecto para la materia de Algoritmo y Programación 1, segundo semestre con Lia en 2022.
+Juego de la Vida de Conway como proyecto para la materia de Algoritmo y Programación 1, segundo semestre con Lia en 2022.
 
 ![Banner Juego de la Vida](https://conwaylife.com/w/images/b/b6/Fpento.gif)
 
